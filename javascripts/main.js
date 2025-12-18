@@ -14,7 +14,7 @@ $(document).ready(function(){
     // console.log("please hire me");
     var clipboard = new ClipboardJS('.email', {
             text: function() {
-                return 'maxknutsen594@gmail.com';
+                return 'ashleyk-work@proton.me';
             }
         });
 
